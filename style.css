@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(220, 200, 200);
+}
+h1 {
+  color: greenyellow;
+  background-color: rgb(37, 36, 38);
+  font-family: sans-serif;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(98, 21, 230);
+}
