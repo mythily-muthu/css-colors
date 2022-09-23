@@ -1,12 +1,53 @@
 body {
-  background-color: rgb(220, 200, 200);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(205, 181, 151);
 }
 h1 {
-  color: greenyellow;
-  background-color: rgb(37, 36, 38);
-  font-family: sans-serif;
+  background-color: black;
+  color: blueviolet;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }
 p {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: rgb(108, 53, 204);
+  padding: 20px;
+  font-weight: bold;
+  margin-top: 70px 40px 70px 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+button {
+  background-color: rgb(231, 235, 27);
+  color: rgb(12, 12, 12);
+  font-weight: bolder;
+  padding: 6px;
+  border-radius: 20px;
+  border-color: brown;
+  border-width: 4px;
+}
+.intro {
+  display: flex;
+  justify-content: center;
+}
+
+button:hover {
+  background-color: rgb(105, 240, 15);
+}
+.image-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
+.color-gif {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
