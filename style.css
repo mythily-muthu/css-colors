@@ -20,12 +20,12 @@ p {
 }
 button {
   background-color: rgb(231, 235, 27);
-  color: rgb(12, 12, 12);
+  color: rgb(43, 37, 37);
   font-weight: bolder;
   padding: 6px;
   border-radius: 20px;
-  border-color: brown;
-  border-width: 4px;
+  border-color: rgb(161, 50, 50);
+  border-width: 5px;
 }
 .intro {
   display: flex;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: rgb(116, 253, 25);
+  background-color: rgb(121, 243, 40);
 }
 .image-1 {
   display: flex;
