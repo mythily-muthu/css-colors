@@ -12,7 +12,7 @@ h1 {
   display: flex;
 }
 p {
-  padding: 20px;
+  padding: 22px;
   font-weight: bold;
   margin-top: 70px 40px 70px 40px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -22,8 +22,8 @@ button {
   background-color: rgb(237, 240, 43);
   color: rgb(43, 37, 37);
   font-weight: bolder;
-  padding: 6px;
-  border-radius: 20px;
+  padding: 7px;
+  border-radius: 22px;
   border-color: rgb(161, 50, 50);
   border-width: 5px;
 }
