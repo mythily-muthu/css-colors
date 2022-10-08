@@ -6,7 +6,7 @@ body {
 }
 h1 {
   background-color: rgb(61, 45, 45);
-  color: blueviolet;
+  color: rgb(152, 47, 250);
   align-items: center;
   justify-content: center;
   display: flex;
@@ -15,13 +15,12 @@ p {
   padding: 22px;
   font-weight: bold;
   margin-top: 70px 40px 70px 40px;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 button {
   background-color: rgb(237, 240, 43);
   color: rgb(43, 37, 37);
-  font-weight: bolder;
+  font-weight: bold;
   padding: 7px;
   border-radius: 22px;
   border-color: rgb(161, 50, 50);
