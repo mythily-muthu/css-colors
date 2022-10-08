@@ -5,7 +5,7 @@ body {
   background-color: rgb(205, 181, 151);
 }
 h1 {
-  background-color: black;
+  background-color: rgb(61, 45, 45);
   color: blueviolet;
   align-items: center;
   justify-content: center;
@@ -19,7 +19,7 @@ p {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 button {
-  background-color: rgb(231, 235, 27);
+  background-color: rgb(237, 240, 43);
   color: rgb(43, 37, 37);
   font-weight: bolder;
   padding: 6px;
